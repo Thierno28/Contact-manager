@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Thierno DIOP",
+      "photo": "https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png",
+      "mobile": "+221778386594",
+      "email": "thiernodiop2810@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Moustapha Mbengue",
+      "photo": "https://mpng.subpng.com/20180411/rzw/kisspng-user-profile-computer-icons-user-interface-mystique-5aceb0245aa097.2885333015234949483712.jpg",
+      "mobile": "+221779539051",
+      "email": "moustaphambengue@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Aminatou Diop",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "mobile": "+221778807091",
+      "email": "aminatoudiop@esp.sn",
+      "id": 3
+    },
+    {
+      "name": "Aliou THIAM",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "mobile": "+221338903388",
+      "email": "aliouthiam@esp.sn",
+      "id": 4
+    }
+  ]
+}
