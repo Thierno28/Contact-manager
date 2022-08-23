@@ -26,7 +26,8 @@ const AddContact = () => {
     });
   };
 
-  let submitForm = async (event) => {
+  const submitForm = async (event) => {
+    event.preventDefault();
     try {
       let response = await ContactService.createContact(data.contact);
       if (response) {
@@ -36,7 +37,6 @@ const AddContact = () => {
       setdata({ ...data, errorMessage: error.message });
       navigate("/contacts/add", { replace: false });
     }
-    event.prevenDefault();
   };
 
   let { loading, contact, errorMessage } = data;

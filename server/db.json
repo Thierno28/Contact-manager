@@ -22,11 +22,18 @@
       "id": 3
     },
     {
-      "name": "Aliou THIAM",
-      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
-      "mobile": "+221338903388",
-      "email": "aliouthiam@esp.sn",
-      "id": 4
+      "name": "Thierno DIOP",
+      "photo": "https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png",
+      "mobile": "+221778386594",
+      "email": "thiernodiop2810@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "diop thierno",
+      "photo": "https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png",
+      "mobile": "778386594",
+      "email": "thiernodiop2810@gmail.com",
+      "id": 8
     }
   ]
 }
